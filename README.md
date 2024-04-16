@@ -1,6 +1,6 @@
 # Intelligent-Shopping-Recommender-System-Boosting-Engagement-and-Sales-in-E-Commerce-
 
-![]()
+![](https://github.com/Prakashpsk/Intelligent-Shopping-Recommender-System-Boosting-Engagement-and-Sales-in-E-Commerce-/blob/main/Recomend_image.jpg)
 
 
 # Introduction
@@ -23,7 +23,9 @@
 2. Data Preprocessing: Clean, preprocess, and transform the data for recommendation modeling.
 3. Recommendation Techniques: Implement collaborative filtering, content-based filtering, and hybrid models.
 
-![]()
+![](https://github.com/Prakashpsk/Intelligent-Shopping-Recommender-System-Boosting-Engagement-and-Sales-in-E-Commerce-/blob/main/recommendation-algorithm%20type.jpg)
+
+
 # Visualization
 📊 The project involves visualizing data patterns and recommendation results to gain insights into system performance and identify areas for improvement.
 
