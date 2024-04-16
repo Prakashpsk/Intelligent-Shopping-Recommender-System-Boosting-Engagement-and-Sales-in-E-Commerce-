@@ -1,0 +1,2 @@
+# Intelligent-Shopping-Recommender-System-Boosting-Engagement-and-Sales-in-E-Commerce-
+🛒🧠 Build an intelligent shopping recommender system to enhance customer satisfaction and drive sales in e-commerce. 🎯 Leverage collaborative filtering, content-based filtering, and hybrid models for personalized product recommendations. 🚀 Improve user experience, increase engagement, and boost business growth with tailored shopping suggestions.
